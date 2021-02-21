@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use App\Models\Color;
 use Illuminate\Database\Seeder;
 
-class ColorsTableSeeder extends Seeder
+class ColorsSeeder extends Seeder
 {
     /**
      * Run the database seeds.
