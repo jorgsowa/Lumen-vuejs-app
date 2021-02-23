@@ -4,7 +4,7 @@ Simple app integrating:
 - Lumen Framework (Laravel micro-framework)
 - Vue.JS
 
-Steps to run:
+Steps to run (steps 5-8 are not necessary when using sqlite database and compiled files from repo):
 1. clone repository
 2. run: docker-compose up --build
 3. run: mv .env.example .env
